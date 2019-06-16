@@ -7,8 +7,8 @@ import { Migrations } from 'meteor/percolate:migrations';
 import * as log from '../../utils/log';
 
 // import './002-add-partners';
-import './003-order-to-cart';
-import './004-address-to-point';
+// import './003-order-to-cart';
+// import './004-address-to-point';
 
 const logger = opts => {
   log[opts.level](opts.tag, opts.message);

@@ -36,6 +36,7 @@ const menuItems = [
   { url: '/app/admin/users', title: t('users')`Пользователи`, permission: 'users.r', icon: 'table' },
   { url: '/app/clinic', title: t('clinic')`Учреждение`, permission: 'clinic.w', icon: 'home' },
   { url: '/app/services', title: t('services')`Услуги`, permission: 'clinic.w', icon: 'tool' },
+  { url: '/app/workers', title: t('workers')`Работники`, permission: 'clinic.w', icon: 'user' },
   { url: '/crm', title: t('crm')`CRM`, permission: 'crm', icon: 'edit' },
   { url: '/logout', title: t`logout`, className: 'pull-right', icon: 'logout' },
 ];

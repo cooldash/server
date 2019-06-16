@@ -24,6 +24,9 @@ export const Clinic = Class.create({
       optional: true,
       form: {
         type: 'textarea',
+        attrs: {
+          type: 'textarea',
+        },
       },
     },
     image: {

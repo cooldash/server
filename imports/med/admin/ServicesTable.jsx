@@ -3,7 +3,7 @@
  */
 
 import React from 'react';
-import { Button, List } from 'antd';
+import { Button, Input, List, Form, Icon, Row, Col } from 'antd';
 
 import { User } from '../../utils/user.model';
 import { MedService } from '../clinic/model';
@@ -33,7 +33,7 @@ const SortableList = SortableContainer(({ items }) => (
 const ExtraList = ({ extra }) => {
   return (
     <SortableList
-      items={[1, 2, 3]}
+      items={extra}
     />
   );
 };
@@ -48,7 +48,28 @@ class UsersTable extends React.Component {
   renderService = ({ extra }) => {
     return (
       <ExtraList
-        extra={[1, 2, 3]/*extra*/}
+        extra={[
+          (<Row style={{ width: '100%' }}>
+            <Col span={1}>
+              <Icon style={{ fontSize: 24 }} type="more" />
+            </Col>
+            <Col span={18}>
+              <Form.Item labelCol={{ span: 10 }} wrapperCol={{ span: 14 }} label="Название характеристики">
+                <Input value="Тип анализов" style={{ width: '100%' }} />
+              </Form.Item>
+            </Col>
+          </Row>),
+          (<Row style={{ width: '100%' }}>
+            <Col span={1}>
+              <Icon style={{ fontSize: 24 }} type="more" />
+            </Col>
+            <Col span={18}>
+              <Form.Item labelCol={{ span: 10 }} wrapperCol={{ span: 14 }} label="Название характеристики" style={{ width: '100%' }}>
+                <Input value="Назначение анализа" style={{ width: '100%' }} />
+              </Form.Item>
+            </Col>
+          </Row>),
+        ]}
       />
     );
   };
@@ -62,13 +83,22 @@ class UsersTable extends React.Component {
   // };
 
   render() {
-    const { services } = this.props;
+    // const { services } = this.props;
+
+    const services = [
+      {
+        name: 'Рентген',
+      },
+      {
+        name: 'Анализы',
+      },
+      {
+        name: 'Офтальмолог',
+      },
+    ];
 
     return (
       <>
-        <ExtraList
-          extra={[1, 2, 3]/*extra*/}
-        />
         <InfoTable
           type={Payment}
           columnsInfo={columnsInfo}
