@@ -1,0 +1,17 @@
+*
+!/imports/
+/imports/client/*
+/imports/ui/*
+/imports/**/client/*
+/imports/locales/*
+!package.json
+!.babelrc
+!.meteorignore
+!/.meteor/versions
+!/.meteor/release
+*client.js
+*.jsx
+*.less
+*.css
+*.ts
+!node_modules/

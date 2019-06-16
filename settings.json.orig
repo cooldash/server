@@ -1,0 +1,11 @@
+{
+  "public": {
+
+  },
+
+  "_syslog_comment": "syslog commented out",
+  "_syslog": {
+    "host": "logs7.papertrailapp.com",
+    "port": 1111
+  }
+}

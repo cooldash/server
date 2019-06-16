@@ -1,0 +1,26 @@
+{
+  "runtime": {
+    "DDP_DEFAULT_CONNECTION_URL": "http://localhost:3070",
+    "ROOT_URL": "http://localhost:3070",
+    "PUBLIC_SETTINGS": {},
+    "autoupdate": {
+      "versions": {}
+    },
+    "meteorRelease": "1.8.1"
+  },
+  "import": [
+    "session",
+    "factory",
+    "accounts-base",
+    "accounts-password",
+    "jagi:astronomy",
+    "jagi:astronomy-timestamp-behavior",
+    "gwendall:impersonate",
+    "raix:eventemitter",
+    "nicolaslopezj:roles",
+    "ccorcos:subs-cache",
+    "treenity:astronomy",
+    "treenity:meteor-astronomy-treenity-modules"
+  ],
+  "generateNodeModules": true
+}

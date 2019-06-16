@@ -1,0 +1,7 @@
+{
+  "sourceLocale": "ru",
+  "compileNamespace": "cjs",
+  "localeDir": "imports/locales/",
+  "srcPathDirs": ["imports", "client"],
+  "format": "po"
+}

@@ -1,0 +1,28 @@
+{
+  "plugins": [
+    "macros"
+  ],
+  "env": {
+    "development": {
+    },
+    "production": {
+    },
+    "test": {
+      "presets": [
+        ["env", { "targets": {"node": "current"} }],
+        ["meteor", { "targets": {"node": "current"} }]
+      ]
+    },
+    "extract": {
+      "presets": [
+        "@babel/preset-react",
+        "@babel/preset-flow"
+      ],
+      "plugins": [
+        "macros",
+        "@babel/plugin-proposal-object-rest-spread",
+        "@babel/plugin-proposal-class-properties"
+      ]
+    }
+  }
+}

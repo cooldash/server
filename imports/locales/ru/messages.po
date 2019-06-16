@@ -1,0 +1,1116 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-01-23 11:47+0800\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ru\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: imports/imperial/users/address.client.js:101
+#: imports/imperial/users/legal-entity.client.js:93
+msgid "Add"
+msgstr "Добавить"
+
+#: imports/imperial/shop/components/OrderDetailsTable/OrderDetailsTable.jsx:62
+msgid "Approve"
+msgstr "Подтвердить"
+
+#: imports/imperial/payments/components/RejectButton.jsx:15
+#: imports/imperial/shop/components/OrderDetailsTable/OrderDetailsTable.jsx:61
+#: imports/mods/crm/components/TypeTable.jsx:143
+#: imports/ui/components/ConfirmButton.jsx:14
+msgid "Cancel"
+msgstr "Отмена"
+
+#: imports/mods/crm/components/TypeTable.jsx:138
+#: imports/mods/crm/components/TypeTable.jsx:143
+msgid "Create"
+msgstr "Создать"
+
+#: imports/imperial/users/address.client.js:89
+#: imports/imperial/users/legal-entity.client.js:87
+#: imports/imperial/warehouse/components/OrderDetailsCreated.jsx:65
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:193
+#: imports/mods/crm/components/TypeTable.jsx:127
+msgid "Remove"
+msgstr "Удалить"
+
+#: imports/mods/crm/components/TypeTable.jsx:120
+msgid "Update"
+msgstr "Обновить"
+
+#: imports/i18n/additional-strings.js:5
+msgid "_id"
+msgstr "БД ID"
+
+#: imports/imperial/warehouse/components/WarehouseDebitForm.jsx:83
+msgid "accept"
+msgstr "Принять"
+
+#: imports/imperial/warehouse/components/WarehouseDebitForm.jsx:25
+msgid "accepted"
+msgstr "accepted"
+
+#: imports/auto-collected-i18n-strings.jsx:42
+msgid "account"
+msgstr "Счет"
+
+#: imports/i18n/additional-strings.js:14
+msgid "actions"
+msgstr "Действия"
+
+#: imports/auto-collected-i18n-strings.jsx:26
+#~ msgid "actualAddress"
+#~ msgstr "Актуальный адрес"
+
+#: imports/imperial/users/client.js:109
+msgid "address"
+msgstr "Адрес"
+
+#: imports/imperial/users/client.js:79
+msgid "address.isRussia"
+msgstr "Адрес в России"
+
+#: imports/auto-collected-i18n-strings.jsx:18
+#: imports/imperial/warehouse/components/OrderDetailsCreated.jsx:34
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:132
+#: imports/imperial/warehouse/components/OrderDetailsShipped.jsx:22
+#: imports/imperial/warehouse/components/WarehouseStocksTable.jsx:41
+msgid "amount"
+msgstr "Количество"
+
+#: imports/imperial/warehouse/components/WarehouseDebitForm.jsx:75
+msgid "amount.inBoxes"
+msgstr "Количество (Коробок)"
+
+#: imports/auto-collected-i18n-strings.jsx:26
+msgid "amountPerBox"
+msgstr "В коробке"
+
+#: imports/imperial/client/components/User/Login.jsx:71
+#: imports/imperial/client/components/User/Register.jsx:65
+msgid "auth.login"
+msgstr "Логин"
+
+#: imports/ui/utils/account/withLogin.jsx:36
+#~ msgid "auth.notApproved"
+#~ msgstr "auth.notApproved"
+
+#: imports/imperial/client/components/Login/map.js:35
+msgid "auth.password.error"
+msgstr "Введите пароль"
+
+#: imports/imperial/client/components/User/Login.jsx:73
+#: imports/imperial/client/components/User/Register.jsx:63
+msgid "auth.signup"
+msgstr "Регистрация"
+
+#: imports/imperial/client/components/Login/map.js:14
+msgid "auth.userName.placeholder"
+msgstr "E-Mail"
+
+#: imports/imperial/client/components/Login/map.js:20
+msgid "auth.username.error"
+msgstr "Введите E-Mail"
+
+#: imports/i18n/additional-strings.js:10
+msgid "balance.insufficient"
+msgstr "Недостаточно средств на счете, необходимо пополнить баланс"
+
+#: imports/imperial/shop/components/CreatePaymentForm/CreatePaymentForm.jsx:106
+msgid "balance.topup"
+msgstr "ПОПОЛНИТЬ СЧЕТ"
+
+#: imports/auto-collected-i18n-strings.jsx:38
+#~ msgid "bank"
+#~ msgstr "Банк"
+
+#: imports/auto-collected-i18n-strings.jsx:40
+#~ msgid "bik"
+#~ msgstr "БИК"
+
+#: imports/auto-collected-i18n-strings.jsx:6
+#~ msgid "birthDay"
+#~ msgstr "День рождения"
+
+#: imports/imperial/users/client.js:37
+msgid "birthday"
+msgstr "День рождения"
+
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:157
+#: imports/imperial/warehouse/components/OrderDetailsShipped.jsx:30
+#: imports/imperial/warehouse/components/WarehouseActions.jsx:31
+msgid "box.id"
+msgstr "Номер коробки"
+
+#: imports/auto-collected-i18n-strings.jsx:40
+msgid "card2card"
+msgstr "С карты на карту"
+
+#: imports/auto-collected-i18n-strings.jsx:104
+#~ msgid "cart"
+#~ msgstr "Корзина"
+
+#: imports/imperial/shop/components/ItemCard/ShopItemCard.jsx:44
+msgid "cart.added"
+msgstr "Добавлено в корзину"
+
+#: imports/auto-collected-i18n-strings.jsx:102
+#~ msgid "cart.delivery"
+#~ msgstr "cart.delivery"
+
+#: imports/imperial/warehouse/components/WarehouseCreditTable.jsx:46
+msgid "cart.delivery.type"
+msgstr "Тип доставки"
+
+#: imports/i18n/additional-strings.js:11
+msgid "cart.insufficientStock"
+msgstr "Недостаточно товара на складе для оформления заказа"
+
+#: imports/imperial/shop/components/ItemCard/ShopItemCard.jsx:49
+msgid "cart.mustLeastOne"
+msgstr "Ничего не выбрано"
+
+#: imports/imperial/shop/pages/shop-menu-items.js:10
+msgid "cart.my"
+msgstr "Моя корзина"
+
+#: imports/imperial/shop/pages/Cart.jsx:57
+msgid "cart.payment.awaitPayment"
+msgstr "Заказ оформлен и ожидает оплаты"
+
+#: imports/imperial/shop/pages/Cart.jsx:60
+msgid "cart.payment.success"
+msgstr "Ваш заказ оплачен и поступил в обработку"
+
+#: imports/auto-collected-i18n-strings.jsx:78
+#~ msgid "cartID"
+#~ msgstr "Номер"
+
+#: imports/auto-collected-i18n-strings.jsx:95
+#~ msgid "cartItem"
+#~ msgstr "cartItem"
+
+#: imports/i18n/additional-strings.js:11
+#~ msgid "cart_insufficient_stock"
+#~ msgstr "cart_insufficient_stock"
+
+#: imports/auto-collected-i18n-strings.jsx:41
+msgid "cash"
+msgstr "Наличные"
+
+#: imports/auto-collected-i18n-strings.jsx:24
+msgid "categoryID"
+msgstr "Категория"
+
+#: imports/auto-collected-i18n-strings.jsx:58
+msgid "channel"
+msgstr "Канал"
+
+#: imports/auto-collected-i18n-strings.jsx:9
+#~ msgid "city"
+#~ msgstr "Город"
+
+#: imports/imperial/shop/components/OrderTable/OrderTable.jsx:51
+#~ msgid "code"
+#~ msgstr "Код"
+
+#: imports/auto-collected-i18n-strings.jsx:75
+#~ msgid "codes"
+#~ msgstr "Коды"
+
+#: imports/auto-collected-i18n-strings.jsx:44
+#: imports/imperial/payments/components/PaymentDebitTable.jsx:38
+#: imports/imperial/users/client.js:110
+msgid "comment"
+msgstr "Комментарий"
+
+#: imports/imperial/users/components/PersonalInfo/index.jsx:38
+#: imports/imperial/users/components/UserProfile/index.jsx:17
+msgid "contacts"
+msgstr "Контакты"
+
+#: imports/auto-collected-i18n-strings.jsx:56
+#: imports/imperial/shop/message/model.js:27
+msgid "content"
+msgstr "Содержание"
+
+#: imports/i18n/additional-strings.js:9
+msgid "cost"
+msgstr "Стоимость"
+
+#: imports/auto-collected-i18n-strings.jsx:7
+#~ msgid "country"
+#~ msgstr "Страна"
+
+#: imports/auto-collected-i18n-strings.jsx:34
+msgid "created"
+msgstr "Создан"
+
+#: imports/i18n/additional-strings.js:6
+#: imports/imperial/shop/components/NewsRecord/NewsRecord.jsx:17
+msgid "createdAt"
+msgstr "Создан"
+
+#: imports/auto-collected-i18n-strings.jsx:13
+msgid "credit"
+msgstr "Расход"
+
+#: imports/imperial/client/layouts/BasicLayout.jsx:37
+msgid "crm"
+msgstr "CRM"
+
+#: imports/auto-collected-i18n-strings.jsx:29
+msgid "currency"
+msgstr "Валюта"
+
+#: imports/auto-collected-i18n-strings.jsx:68
+#~ msgid "current"
+#~ msgstr "Текущий"
+
+#: imports/auto-collected-i18n-strings.jsx:19
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:142
+#: imports/imperial/warehouse/components/WarehouseDebitForm.jsx:51
+msgid "date"
+msgstr "Дата"
+
+#: imports/auto-collected-i18n-strings.jsx:12
+msgid "debit"
+msgstr "Приход"
+
+#: imports/auto-collected-i18n-strings.jsx:73
+#~ msgid "delivered"
+#~ msgstr "Получен"
+
+#: imports/auto-collected-i18n-strings.jsx:74
+#~ msgid "delivered-to-shop"
+#~ msgstr "Доставлено в магазин"
+
+#: imports/imperial/shop/pages/Cart.jsx:102
+#: imports/imperial/users/components/PersonalInfo/index.jsx:44
+#: imports/imperial/users/components/UserProfile/index.jsx:18
+msgid "delivery"
+msgstr "Доставка"
+
+#: imports/imperial/users/client.js:43
+#: imports/imperial/users/user-profile.model.js:116
+#: imports/imperial/warehouse/components/WarehouseCreditTable.jsx:47
+msgid "delivery.address"
+msgstr "Адрес доставки"
+
+#: imports/i18n/additional-strings.js:12
+msgid "delivery.city"
+msgstr "Регион продажи"
+
+#: imports/imperial/warehouse/components/WarehouseCreditTable.jsx:46
+#~ msgid "delivery.code"
+#~ msgstr "Подтверждение доставки"
+
+#: imports/i18n/additional-strings.js:19
+msgid "delivery.name"
+msgstr "ФИО получателя"
+
+#: imports/i18n/additional-strings.js:18
+msgid "delivery.phone"
+msgstr "Телефон получателя"
+
+#: imports/imperial/shop/pages/Cart.jsx:34
+#: imports/imperial/shop/pages/Cart.jsx:116
+#: imports/imperial/users/client.js:47
+msgid "delivery.setAddress"
+msgstr "Укажите адрес доставки"
+
+#: imports/auto-collected-i18n-strings.jsx:99
+#~ msgid "deliveryAddress"
+#~ msgstr "Адрес доставки"
+
+#: imports/auto-collected-i18n-strings.jsx:19
+#~ msgid "deliveryAddresses"
+#~ msgstr "deliveryAddresses"
+
+#: imports/i18n/additional-strings.js:17
+msgid "deliveryPoint"
+msgstr "Точка доставки"
+
+#: imports/auto-collected-i18n-strings.jsx:8
+msgid "description"
+msgstr "Описание"
+
+#: imports/auto-collected-i18n-strings.jsx:62
+msgid "discount"
+msgstr "Скидка"
+
+#: imports/imperial/users/components/PartnerCard.jsx:12
+msgid "email"
+msgstr "E-mail"
+
+#: imports/auto-collected-i18n-strings.jsx:3
+#~ msgid "emails"
+#~ msgstr "E-mails"
+
+#: imports/i18n/additional-strings.js:13
+msgid "emails.0.address"
+msgstr "E-mail"
+
+#: imports/auto-collected-i18n-strings.jsx:21
+msgid "enabled"
+msgstr "enabled"
+
+#: imports/auto-collected-i18n-strings.jsx:53
+#: imports/imperial/shop/message/model.js:11
+msgid "error"
+msgstr "Ошибка"
+
+#: imports/imperial/payments/pages/PaymentsDebit.jsx:32
+#: imports/imperial/payments/pages/PaymentsTop.jsx:28
+#: imports/imperial/reports/pages/Reports.jsx:39
+#: imports/imperial/warehouse/components/WarehouseDebitTable.jsx:58
+#: imports/imperial/warehouse/pages/WarehouseCredit.jsx:35
+#: imports/mods/crm/components/TypeTable.jsx:147
+msgid "excel.download"
+msgstr "Скачать Excel Файл"
+
+#: imports/auto-collected-i18n-strings.jsx:32
+#: imports/imperial/warehouse/components/WarehouseDebitForm.jsx:66
+msgid "factory"
+msgstr "Завод"
+
+#: imports/auto-collected-i18n-strings.jsx:14
+msgid "factoryID"
+msgstr "ID Завода"
+
+#: imports/imperial/shop/components/CreatePaymentForm/CreatePaymentForm.jsx:49
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:38
+msgid "fill"
+msgstr "Заполнить"
+
+#: imports/imperial/warehouse/components/WarehouseActions.jsx:32
+msgid "find"
+msgstr "Найти"
+
+#: imports/auto-collected-i18n-strings.jsx:3
+#~ msgid "firstName"
+#~ msgstr "Имя"
+
+#: imports/auto-collected-i18n-strings.jsx:25
+msgid "groupID"
+msgstr "ID Группы"
+
+#: imports/auto-collected-i18n-strings.jsx:41
+#~ msgid "head"
+#~ msgstr "head"
+
+#: imports/auto-collected-i18n-strings.jsx:28
+msgid "icon"
+msgstr "Иконка"
+
+#: imports/auto-collected-i18n-strings.jsx:6
+msgid "id"
+msgstr "ID"
+
+#: imports/auto-collected-i18n-strings.jsx:22
+msgid "image"
+msgstr "Изображение"
+
+#: imports/imperial/crm/common.js:76
+msgid "impersonate.become"
+msgstr "Магазин"
+
+#: imports/auto-collected-i18n-strings.jsx:51
+#: imports/imperial/shop/message/model.js:9
+msgid "info"
+msgstr "Информация"
+
+#: imports/auto-collected-i18n-strings.jsx:28
+#~ msgid "inn"
+#~ msgstr "ИНН"
+
+#: imports/imperial/users/client.js:28
+msgid "instagram"
+msgstr "Instagram"
+
+#: imports/imperial/client/components/User/Login.jsx:62
+#: imports/imperial/shop/pages/Support.jsx:31
+msgid "instruction"
+msgstr "Инструкция"
+
+#: imports/auto-collected-i18n-strings.jsx:29
+#~ msgid "kpp"
+#~ msgstr "КПП"
+
+#: imports/auto-collected-i18n-strings.jsx:39
+#~ msgid "ks"
+#~ msgstr "КС"
+
+#: imports/auto-collected-i18n-strings.jsx:4
+#~ msgid "lastName"
+#~ msgstr "Фамилия"
+
+#: imports/imperial/payments/model.js:65
+#: imports/imperial/users/components/PersonalInfo/index.jsx:32
+#: imports/imperial/users/components/UserProfile/index.jsx:16
+#: imports/imperial/users/legal-entity.client.js:21
+msgid "legal.entity"
+msgstr "Юридическое лицо"
+
+#: imports/auto-collected-i18n-strings.jsx:25
+#~ msgid "legalAddress"
+#~ msgstr "Юридический адрес"
+
+#: imports/auto-collected-i18n-strings.jsx:39
+#~ msgid "legalEntities"
+#~ msgstr "legalEntities"
+
+#: imports/auto-collected-i18n-strings.jsx:48
+msgid "legalEntity"
+msgstr "legalEntity"
+
+#: imports/imperial/users/address.client.js:45
+msgid "list.empty"
+msgstr "list.empty"
+
+#: imports/imperial/client/layouts/BasicLayout.jsx:38
+#: imports/imperial/shop/pages/shop-menu-items.js:45
+msgid "logout"
+msgstr "Выход"
+
+#: imports/auto-collected-i18n-strings.jsx:59
+#: imports/imperial/shop/message/model.js:17
+msgid "message"
+msgstr "Сообщение"
+
+#: imports/auto-collected-i18n-strings.jsx:50
+#: imports/imperial/shop/message/model.js:7
+msgid "message.severity"
+msgstr "Уровень сообщения"
+
+#: imports/imperial/shop/pages/shop-menu-items.js:25
+msgid "messages"
+msgstr "Сообщения"
+
+#: imports/imperial/payments/pages/PaymentsDebit.jsx:28
+#: imports/imperial/payments/pages/PaymentsTop.jsx:25
+msgid "money.inCashbox"
+msgstr "Деньги в кассе"
+
+#: imports/imperial/payments/pages/PaymentsTop.jsx:23
+msgid "money.received"
+msgstr "Деньги приняты"
+
+#: imports/auto-collected-i18n-strings.jsx:7
+#: imports/imperial/users/client.js:36
+#: imports/imperial/users/client.js:112
+msgid "name"
+msgstr "Имя"
+
+#: imports/auto-collected-i18n-strings.jsx:24
+#~ msgid "nameShort"
+#~ msgstr "Сокращенное имя"
+
+#: imports/mods/crm/components/TypeTable.jsx:124
+#~ msgid "no"
+#~ msgstr "Нет"
+
+#: imports/auto-collected-i18n-strings.jsx:30
+#~ msgid "ogrn"
+#~ msgstr "ОГРН"
+
+#: imports/auto-collected-i18n-strings.jsx:31
+#~ msgid "okato"
+#~ msgstr "ОКАТО"
+
+#: imports/auto-collected-i18n-strings.jsx:34
+#~ msgid "okfc"
+#~ msgstr "ОКФС"
+
+#: imports/auto-collected-i18n-strings.jsx:33
+#~ msgid "okogu"
+#~ msgstr "ОКОГУ"
+
+#: imports/auto-collected-i18n-strings.jsx:35
+#~ msgid "okopf"
+#~ msgstr "ОКОПФ"
+
+#: imports/auto-collected-i18n-strings.jsx:36
+#~ msgid "okpo"
+#~ msgstr "ОКПО"
+
+#: imports/auto-collected-i18n-strings.jsx:32
+#~ msgid "oktmo"
+#~ msgstr "ОКТМО"
+
+#: imports/auto-collected-i18n-strings.jsx:17
+msgid "operation"
+msgstr "Операция"
+
+#: imports/imperial/shop/components/OrderDetailsTable/OrderDetailsTable.jsx:60
+msgid "order.accept.approve"
+msgstr "Подтвердить принятие товара по заказу?"
+
+#: imports/imperial/warehouse/components/OrderDetailsCreated.jsx:58
+msgid "order.ready"
+msgstr "Заказ готов"
+
+#: imports/auto-collected-i18n-strings.jsx:67
+#~ msgid "order.status"
+#~ msgstr "Статус заказа"
+
+#: imports/auto-collected-i18n-strings.jsx:100
+#~ msgid "orderDate"
+#~ msgstr "Дата заказа"
+
+#: imports/imperial/warehouse/pages/WarehouseCredit.jsx:24
+msgid "orders.findBox"
+msgstr "Поиск коробок"
+
+#: imports/imperial/shop/pages/Orders.jsx:13
+#: imports/imperial/shop/pages/shop-menu-items.js:15
+msgid "orders.history"
+msgstr "Заказы"
+
+#: imports/imperial/warehouse/pages/WarehouseCredit.jsx:26
+msgid "orders.new"
+msgstr "Новые заказы"
+
+#: imports/imperial/warehouse/pages/WarehouseCredit.jsx:28
+msgid "orders.ready"
+msgstr "Готовы к отправке"
+
+#: imports/imperial/warehouse/pages/WarehouseCredit.jsx:32
+msgid "orders.received"
+msgstr "Получены покупателем"
+
+#: imports/imperial/warehouse/pages/WarehouseCredit.jsx:30
+msgid "orders.shipped"
+msgstr "Отправлены"
+
+#: imports/auto-collected-i18n-strings.jsx:21
+#~ msgid "overdraft"
+#~ msgstr "overdraft"
+
+#: imports/auto-collected-i18n-strings.jsx:3
+msgid "partnerID"
+msgstr "Партнер"
+
+#: imports/auto-collected-i18n-strings.jsx:49
+msgid "payment"
+msgstr "Платеж"
+
+#: imports/imperial/payments/components/PaymentDebitTableCreated.jsx:38
+#: imports/imperial/payments/components/PaymentDebitTableReqSent.jsx:41
+msgid "payment.reject.approve"
+msgstr "Отклонить платеж?"
+
+#: imports/auto-collected-i18n-strings.jsx:33
+msgid "payment.status"
+msgstr "Статус платежа"
+
+#: imports/auto-collected-i18n-strings.jsx:39
+msgid "payment.type"
+msgstr "Тип платежа"
+
+#: imports/imperial/client/layouts/BasicLayout.jsx:34
+#: imports/imperial/client/layouts/BasicLayout.jsx:35
+msgid "payments-debit"
+msgstr "Платежи"
+
+#: imports/imperial/shop/components/CreatePaymentForm/CreatePaymentForm.jsx:33
+msgid "payments.create.success"
+msgstr "Ваш платеж зарегистрирован и поступил в обработку"
+
+#: imports/imperial/shop/pages/PaymentHistory.jsx:9
+#: imports/imperial/shop/pages/shop-menu-items.js:20
+msgid "payments.history"
+msgstr "Платежи"
+
+#: imports/imperial/payments/pages/PaymentsDebit.jsx:21
+#: imports/imperial/payments/pages/PaymentsTop.jsx:19
+msgid "payments.new"
+msgstr "Новые заявки"
+
+#: imports/imperial/payments/pages/PaymentsDebit.jsx:25
+msgid "payments.received"
+msgstr "Деньги приняты"
+
+#: imports/auto-collected-i18n-strings.jsx:43
+msgid "paysystem"
+msgstr "Платежная система"
+
+#: imports/imperial/users/components/PersonalInfo/index.jsx:27
+msgid "personal.info"
+msgstr "Личные данные"
+
+#: imports/imperial/users/client.js:25
+#: imports/imperial/users/client.js:111
+msgid "phone"
+msgstr "Телефон"
+
+#: imports/auto-collected-i18n-strings.jsx:7
+#~ msgid "photo"
+#~ msgstr "Фотография"
+
+#: imports/imperial/shop/pages/Cart.jsx:121
+msgid "pickup"
+msgstr "Самовывоз"
+
+#: imports/auto-collected-i18n-strings.jsx:9
+msgid "pickupAddress"
+msgstr "Адрес самовывоза"
+
+#: imports/auto-collected-i18n-strings.jsx:20
+#~ msgid "points"
+#~ msgstr "points"
+
+#: imports/auto-collected-i18n-strings.jsx:27
+#~ msgid "postAddress"
+#~ msgstr "Почтовый адрес"
+
+#: imports/auto-collected-i18n-strings.jsx:23
+#: imports/imperial/warehouse/components/OrderDetailsCreated.jsx:39
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:136
+#: imports/imperial/warehouse/components/OrderDetailsShipped.jsx:26
+msgid "price"
+msgstr "Цена"
+
+#: imports/auto-collected-i18n-strings.jsx:27
+#: imports/imperial/warehouse/components/OrderDetailsCreated.jsx:29
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:127
+#: imports/imperial/warehouse/components/OrderDetailsShipped.jsx:17
+#: imports/imperial/warehouse/components/WarehouseDebitForm.jsx:58
+msgid "product"
+msgstr "Продукт"
+
+#: imports/auto-collected-i18n-strings.jsx:30
+msgid "product.category"
+msgstr "Категория продукта"
+
+#: imports/auto-collected-i18n-strings.jsx:31
+msgid "product.group"
+msgstr "Группа продукта"
+
+#: imports/auto-collected-i18n-strings.jsx:16
+#: imports/imperial/warehouse/components/WarehouseStocksTable.jsx:36
+msgid "productID"
+msgstr "Продукт"
+
+#: imports/auto-collected-i18n-strings.jsx:103
+#~ msgid "productList"
+#~ msgstr "productList"
+
+#: imports/imperial/shop/pages/shop-menu-items.js:30
+#: imports/imperial/users/pages/Profile.jsx:19
+msgid "profile"
+msgstr "Профиль"
+
+#: imports/imperial/shop/components/PaymentStory/PaymentStory.jsx:52
+msgid "purchaces"
+msgstr "Покупки"
+
+#: imports/i18n/additional-strings.js:8
+msgid "purchase"
+msgstr "Покупка"
+
+#: imports/i18n/additional-strings.js:16
+msgid "range"
+msgstr "Период"
+
+#: imports/auto-collected-i18n-strings.jsx:71
+#~ msgid "ready"
+#~ msgstr "Готово"
+
+#: imports/imperial/payments/components/PaymentDebitTableReqSent.jsx:36
+#: imports/imperial/shop/components/OrderDetailsTable/OrderDetailsTable.jsx:68
+msgid "receive"
+msgstr "Получить"
+
+#: imports/imperial/payments/components/PaymentDebitTableReceivedTop.jsx:30
+msgid "receiveCashbox"
+msgstr "Получить в кассу"
+
+#: imports/auto-collected-i18n-strings.jsx:36
+msgid "received"
+msgstr "Получено"
+
+#: imports/auto-collected-i18n-strings.jsx:46
+msgid "receivedDate"
+msgstr "Дата получения"
+
+#: imports/auto-collected-i18n-strings.jsx:37
+msgid "received_cashbox"
+msgstr "Получено в кассу"
+
+#: imports/auto-collected-i18n-strings.jsx:113
+#~ msgid "refill"
+#~ msgstr "Пополнение"
+
+#: imports/auto-collected-i18n-strings.jsx:8
+#~ msgid "region"
+#~ msgstr "Регион"
+
+#: imports/auto-collected-i18n-strings.jsx:4
+msgid "regionalID"
+msgstr "ID Рег. партнера"
+
+#: imports/imperial/payments/components/PaymentDebitTableCreated.jsx:42
+#: imports/imperial/payments/components/PaymentDebitTableReqSent.jsx:45
+#: imports/imperial/payments/components/RejectButton.jsx:13
+msgid "reject"
+msgstr "Отклонить"
+
+#: imports/auto-collected-i18n-strings.jsx:38
+msgid "rejected"
+msgstr "Отклонено"
+
+#: imports/imperial/warehouse/components/OrderDetailsCreated.jsx:63
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:191
+#: imports/mods/crm/components/TypeTable.jsx:124
+msgid "remove.confirm.question"
+msgstr "Вы действительно хотите удалить объект?"
+
+#: imports/imperial/reports/pages/Reports.jsx:56
+msgid "report.amounts"
+msgstr "Заказано коробок"
+
+#: imports/imperial/reports/pages/Reports.jsx:60
+msgid "report.balances"
+msgstr "Балансы на дату"
+
+#: imports/imperial/reports/pages/Reports.jsx:59
+msgid "report.payments"
+msgstr "Отправлено денег"
+
+#: imports/imperial/client/layouts/BasicLayout.jsx:36
+msgid "reports"
+msgstr "Отчеты"
+
+#: imports/imperial/payments/components/PaymentDebitTableCreated.jsx:35
+#: imports/imperial/payments/pages/PaymentsDebit.jsx:23
+#: imports/imperial/payments/pages/PaymentsTop.jsx:21
+msgid "req.sent"
+msgstr "Реквизиты отправлены"
+
+#: imports/auto-collected-i18n-strings.jsx:35
+msgid "reqsent"
+msgstr "Реквизиты оправлены"
+
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:18
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:23
+msgid "required"
+msgstr "Обязательное"
+
+#: imports/auto-collected-i18n-strings.jsx:5
+#~ msgid "roles"
+#~ msgstr "Роли"
+
+#: imports/auto-collected-i18n-strings.jsx:37
+#~ msgid "rs"
+#~ msgstr "РС"
+
+#: imports/auto-collected-i18n-strings.jsx:5
+msgid "sales-agent"
+msgstr "sales-agent"
+
+#: imports/auto-collected-i18n-strings.jsx:80
+#~ msgid "sales.order"
+#~ msgstr "Заказ продажи"
+
+#: imports/imperial/users/client.js:102
+#: imports/ui/components/VerticalForm.jsx:20
+msgid "save"
+msgstr "Сохранить"
+
+#: imports/imperial/shop/pages/Support.jsx:47
+msgid "send"
+msgstr "Отправить"
+
+#: imports/auto-collected-i18n-strings.jsx:4
+#~ msgid "services"
+#~ msgstr "Сервисы"
+
+#: imports/imperial/shop/pages/shop-menu-items.js:35
+msgid "settings"
+msgstr "Настройки"
+
+#: imports/auto-collected-i18n-strings.jsx:57
+msgid "severity"
+msgstr "Уровень"
+
+#: imports/auto-collected-i18n-strings.jsx:76
+#~ msgid "shipmentDate"
+#~ msgstr "Дата доставки"
+
+#: imports/auto-collected-i18n-strings.jsx:72
+#~ msgid "shipped"
+#~ msgstr "Отправлено"
+
+#: imports/imperial/shop/pages/shop-menu-items.js:5
+msgid "shop"
+msgstr "Магазин"
+
+#: imports/auto-collected-i18n-strings.jsx:45
+msgid "status"
+msgstr "Статус"
+
+#: imports/auto-collected-i18n-strings.jsx:10
+#~ msgid "street"
+#~ msgstr "Улица"
+
+#: imports/auto-collected-i18n-strings.jsx:54
+#: imports/imperial/shop/message/model.js:12
+msgid "success"
+msgstr "Успешно"
+
+#: imports/imperial/shop/pages/shop-menu-items.js:40
+msgid "support"
+msgstr "Поддержка"
+
+#: imports/imperial/shop/pages/Support.jsx:50
+msgid "support.email"
+msgstr "<0>Так же связаться с нами можно по почте: <1>imperial.it.group@gmail.com</1></0>"
+
+#: imports/imperial/shop/pages/Support.jsx:33
+msgid "support.message"
+msgstr "<0>Если при работе с системой возникли проблемы, вам поможет служба технической поддержки. Чтобы отправить нам сообщение о проблеме, заполните форму обратной связи.</0>"
+
+#: imports/auto-collected-i18n-strings.jsx:61
+msgid "supportMessage"
+msgstr "Сообщение"
+
+#: imports/auto-collected-i18n-strings.jsx:5
+#~ msgid "surname"
+#~ msgstr "Отчество"
+
+#: imports/imperial/users/client.js:27
+msgid "telegram"
+msgstr "Telegram"
+
+#: imports/auto-collected-i18n-strings.jsx:55
+msgid "title"
+msgstr "Заголовок"
+
+#: imports/imperial/shop/components/PaymentStory/PaymentStory.jsx:44
+msgid "topup"
+msgstr "Пополнение"
+
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:182
+msgid "toship"
+msgstr "Доставить"
+
+#: imports/imperial/shop/components/CartList/CartList.jsx:42
+msgid "total"
+msgstr "Итого"
+
+#: imports/i18n/additional-strings.js:15
+#: imports/imperial/shop/components/OrderTable/OrderTable.jsx:51
+#: imports/imperial/warehouse/components/WarehouseCreditTable.jsx:48
+msgid "trackNumber"
+msgstr "Трек-номер"
+
+#: imports/auto-collected-i18n-strings.jsx:47
+msgid "type"
+msgstr "Тип"
+
+#: imports/utils/add-enum-component.js:7
+#: imports/utils/add-enum-component.js:8
+msgid "undefined"
+msgstr "undefined"
+
+#: imports/imperial/shop/components/UnderContruction/index.jsx:9
+#~ msgid "under.construction"
+#~ msgstr " Внимание!!! Данный раздел находится в разработке. В ближайшее время здесь появится информация."
+
+#: imports/imperial/shop/pages/Offers.jsx:11
+#~ msgid "under.construction.offers"
+#~ msgstr "Внимание!!! В ближайшее время здесь откроется магазин товаров, которые вы сможете приобрести за баллы, начисленные за заказы, оформленные в нашем магазине."
+
+#: imports/imperial/client/layouts/MainLayout.jsx:23
+msgid "unimpersonate"
+msgstr "Выйти"
+
+#: imports/i18n/additional-strings.js:7
+msgid "updatedAt"
+msgstr "Обновлено"
+
+#: imports/auto-collected-i18n-strings.jsx:6
+#~ msgid "user"
+#~ msgstr "Пользователь"
+
+#: imports/auto-collected-i18n-strings.jsx:14
+#~ msgid "user.contacts"
+#~ msgstr "Контакты"
+
+#: imports/auto-collected-i18n-strings.jsx:22
+#~ msgid "user.delivery"
+#~ msgstr "Доставка"
+
+#: imports/auto-collected-i18n-strings.jsx:18
+#~ msgid "user.delivery.point"
+#~ msgstr "user.delivery.point"
+
+#: imports/auto-collected-i18n-strings.jsx:40
+#~ msgid "user.legal.profile"
+#~ msgstr "user.legal.profile"
+
+#: imports/auto-collected-i18n-strings.jsx:8
+#~ msgid "user.personal"
+#~ msgstr "Персональная информация"
+
+#: imports/auto-collected-i18n-strings.jsx:60
+msgid "userId"
+msgstr "ID Пользователя"
+
+#: imports/imperial/users/model.js:61
+msgid "userMessage"
+msgstr "userMessage"
+
+#: imports/auto-collected-i18n-strings.jsx:114
+#~ msgid "value"
+#~ msgstr "Значение"
+
+#: imports/imperial/users/client.js:29
+msgid "vk"
+msgstr "ВК"
+
+#: imports/auto-collected-i18n-strings.jsx:10
+msgid "warehouse"
+msgstr "Склад"
+
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:34
+msgid "warehouse.box.autocomplete"
+msgstr "Номера коробок"
+
+#: imports/imperial/warehouse/components/OrderDetailsReady.jsx:185
+msgid "warehouse.box.help"
+msgstr ""
+"Поле ниже поддерживает следующий формат:\n"
+"\"дата: номер, номер, номер-номер\"\n"
+"если дата указана не полностью, будет использован текущий месяц и год\n"
+""
+
+#: imports/imperial/client/layouts/BasicLayout.jsx:32
+msgid "warehouse.credit"
+msgstr "Склад расход"
+
+#: imports/imperial/client/layouts/BasicLayout.jsx:31
+msgid "warehouse.debit"
+msgstr "Склад приход"
+
+#: imports/auto-collected-i18n-strings.jsx:20
+#~ msgid "warehouse.orde r"
+#~ msgstr "warehouse.orde r"
+
+#: imports/auto-collected-i18n-strings.jsx:20
+msgid "warehouse.order"
+msgstr "Заказ склада"
+
+#: imports/auto-collected-i18n-strings.jsx:11
+msgid "warehouse.order.type"
+msgstr "Тип заказа"
+
+#: imports/imperial/shop/pages/Cart.jsx:39
+msgid "warehouse.pickupNotSelected"
+msgstr "Адрес самовывоза не указан"
+
+#: imports/imperial/client/layouts/BasicLayout.jsx:33
+msgid "warehouse.stocks"
+msgstr "Склад остатки"
+
+#: imports/auto-collected-i18n-strings.jsx:15
+msgid "warehouseID"
+msgstr "Склад"
+
+#: imports/auto-collected-i18n-strings.jsx:52
+#: imports/imperial/shop/message/model.js:10
+msgid "warning"
+msgstr "Предупреждение"
+
+#: imports/mods/crm/components/TypeTable.jsx:123
+#~ msgid "yes"
+#~ msgstr "Да"
+
+#: imports/imperial/shop/pages/Offers.jsx:10
+msgid "Акции"
+msgstr "Акции"
+
+#: imports/imperial/shop/components/BalanceStat/BalanceStat.jsx:16
+msgid "ВАШ БАЛАНС:"
+msgstr "ВАШ БАЛАНС:"
+
+#: imports/imperial/warehouse/components/WarehouseDebitForm.jsx:61
+msgid "Выберите продукт"
+msgstr "Выберите продукт"
+
+#: imports/imperial/warehouse/components/WarehouseDebitForm.jsx:69
+msgid "Выберите производство"
+msgstr "Выберите производство"
+
+#: imports/imperial/payments/components/PaymentDebitTableCreated.jsx:31
+#: imports/imperial/payments/components/PaymentDebitTableReceivedTop.jsx:31
+#: imports/imperial/payments/components/PaymentDebitTableReqSent.jsx:31
+#~ msgid "Действия"
+#~ msgstr "Действия"
+
+#: imports/imperial/shop/pages/Cart.jsx:86
+msgid "Корзина"
+msgstr "Корзина"
+
+#: imports/imperial/users/components/UserProfile/index.jsx:15
+msgid "Личные данные"
+msgstr "Личные данные"
+
+#: imports/imperial/shop/pages/Settings.jsx:11
+msgid "Настройки"
+msgstr "Настройки"
+
+#: imports/imperial/shop/supportMessages/model.js:14
+msgid "Описание проблемы"
+msgstr "Описание проблемы"
+
+#: imports/imperial/shop/pages/Cart.jsx:150
+msgid "Оплатить"
+msgstr "Оплатить"
+
+#: imports/imperial/shop/pages/Support.jsx:28
+msgid "Поддержка"
+msgstr "Поддержка"
+
+#: imports/imperial/users/legal-entity.model.js:50
+msgid "Полное наименование организации"
+msgstr "Полное наименование организации"
+
+#: imports/imperial/shop/pages/CreatePayment.jsx:27
+msgid "Пополнение счета"
+msgstr "Пополнение счета"
+
+#: imports/imperial/users/legal-entity.model.js:147
+msgid "Руководитель"
+msgstr "Руководитель"
+
+#: imports/imperial/shop/pages/Warehouse.jsx:9
+msgid "Склад"
+msgstr "Склад"
+
+#: imports/imperial/users/legal-entity.model.js:64
+msgid "Сокращенное наименование"
+msgstr "Сокращенное наименование"
+
+#: imports/imperial/shop/pages/Messages.jsx:21
+msgid "Сообщения"
+msgstr "Сообщения"
+
+#: imports/imperial/payments/model.js:41
+#: imports/imperial/shop/components/CreatePaymentForm/CreatePaymentForm.jsx:85
+msgid "Сумма"
+msgstr "Сумма"
+
+#: imports/imperial/payments/model.js:59
+#: imports/imperial/shop/components/CreatePaymentForm/CreatePaymentForm.jsx:93
+msgid "Тип оплаты"
+msgstr "Тип оплаты"

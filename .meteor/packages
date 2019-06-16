@@ -1,0 +1,81 @@
+# Meteor packages used by this project one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you
+# but you can also edit it by hand.
+
+# meteor libraries
+meteor-base@1.4.0
+ecmascript@0.12.4
+es5-shim@4.8.0
+check@1.3.1
+tracker@1.2.0
+session@1.2.0
+
+# standard libraries
+underscore@1.0.10
+
+# ui
+# static-html@1.1.12_1
+
+# data
+mongo@1.6.2
+# aldeed:simple-schema
+# aldeed:collection2
+# dburles:collection-helpers
+# reywood:publish-composite
+# mdg:validated-method
+# mdg:validation-error
+
+# i18n
+universe:i18n
+
+# accounts
+accounts-password@1.5.1
+
+# mobile
+# crosswalk@1.7.1
+# mobile-experience@1.0.5
+# chriswessels:hammer
+
+# production
+standard-minifier-js@2.4.1
+ddp-rate-limiter@1.0.7
+# app-prod-security
+
+# rest apis
+# simple:rest-accounts-password
+# simple:rest
+
+# testing
+factory
+publication-collector
+xolvio:cleaner
+practicalmeteor:mocha
+practicalmeteor:chai
+practicalmeteor:sinon
+hwillson:stub-collections
+shell-server@0.4.0
+
+# security
+# audit-argument-checks@1.0.7
+dynamic-import@0.5.1
+nathantreid:static-assets
+jagi:astronomy
+meteorhacks:picker
+meteorhacks:aggregate
+http@1.4.2
+jagi:astronomy-timestamp-behavior
+treenity:meteor-astronomy-treenity-modules
+raix:eventemitter
+meteortesting:mocha
+# autoupdate
+treenity:astronomy
+babel-runtime@1.3.0
+nicolaslopezj:roles
+krizka:mongo-counters
+meteorhacks:ssr
+email@1.2.3
+percolate:migrations
+ccorcos:subs-cache
+gwendall:impersonate
